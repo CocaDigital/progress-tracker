@@ -101,38 +101,6 @@ section {
   margin: 20px;
 }
 
-.section-number {
-  font-size: 25px;
-  font-weight: bold;
-  color: var(--dkgreen);
-
-  padding: 20px 15px;
-
-  margin: 9px;
-
-  background-color: var(--grey);
-  border: 4px solid var(--dkgreen);
-  border-radius: 15px;
-
-  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
-}
-
-.done {
-  color: var(--dkgrey);
-  text-decoration: line-through 4px;
-  text-decoration-color: var(--dkgreen);
-  background-color: var(--dkgreen);
-  border-color: var(--grey);
-}
-
-.current {
-  color: var(--dkgreen);
-
-  background-color: white;
-  border-color: var(--grey);
-
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-}
 /*
 ---------- footer ----------
 */
