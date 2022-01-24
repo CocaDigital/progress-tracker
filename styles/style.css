@@ -114,7 +114,7 @@ section {
   border: 4px solid var(--dkgreen);
   border-radius: 15px;
 
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
 }
 
 .done {
@@ -123,6 +123,15 @@ section {
   text-decoration-color: var(--dkgreen);
   background-color: var(--dkgreen);
   border-color: var(--grey);
+}
+
+.current {
+  color: var(--dkgreen);
+
+  background-color: white;
+  border-color: var(--grey);
+
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 /*
 ---------- footer ----------
